@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.exe.config
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.exe
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.pdb
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.Form1.resources
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.Properties.Resources.resources
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.exe
+C:\Users\Admin\source\repos\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.pdb
